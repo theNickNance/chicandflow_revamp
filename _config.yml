@@ -2,7 +2,7 @@
 title: Chic & Flow
 email: sogoald@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I created Chic and Flow to make shopping easier for you, no matter your style or your budget. I use my eye for style and shopping smarts to show you a variety of items with suggestions on how to wear them. All you have to do is click on the items you like, then click on the link and you’re taken right to the product. Enjoy!
+  I want to make online shopping easier for you, by bringing my favorite pieces from clothing websites into one place. On almost every item, you’ll see why I chose it and often some TIP’s on how to style it
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.chicandflow.com" # the base hostname & protocol for your site
 twitter_username: SogoalDavani

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Madewell High-Rise Shorts"
-date:   2015-02-17 21:25:30
+title:  "Raphaella Booz Alamosa Skimmers"
+date:   2015-02-18 21:25:30
 categories: jekyll update
-image: Madewell_shorts.jpeg
-price: '69.50'
-site: Madewell.com
-location: https://www.madewell.com/madewell_category/PANTSSHORTS/shorts/PRDOVR~C8007/C8007.jsp
+image: anthropolige_pointy_flats.jpeg
+price: '118.00'
+site: Anthropologie.com
+location: http://www.anthropologie.com/anthro/product/shoes-new/34776450.jsp#/
 ---
-I love wearing shorts in the summer, but I don't have the body to wear the high-waisted booty shorts that have been on trend for a while now. Boyfriend shorts are so comfortable, always appropriate and they make your legs look skinny! I'm a fan of boyfriend jeans topped with a flowy cotton top and paired with a simple sandle.
+If you don't own a pair of pointy toed flats, get some. The simple point on the toe will instantly change the look of your outfit from casual to clean-cut. At work, we have a business casual dress code, where many of the women wear heels. I physically can't wear heals every day and felt so out of place when I had to wear flats. Once I discovered the pointy toed flats my problem was solved.
+
+TIP: If you feel like your feet are too flat or wide for these shoes, try going a half size to one size larger.  
