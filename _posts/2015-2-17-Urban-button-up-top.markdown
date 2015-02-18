@@ -8,4 +8,4 @@ price: '59.00'
 site: Urbanoutfitters.com
 location: http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=34747287&parentid=W_NEWARRIVALS_CLOTHING#/
 ---
-I am victim to this, and I know you are too--your closet is filled with plaid flannels. How can it not be? They are so easy to throw on top of, quite literally, anything. Too bad it's summer... Thankfully Urban has a linen version which looks amazing! If you pair this with bermuda shorts, or even the Madewell Boyfriend High-Rise shorts, you have the summer version of your favorite winter look. 
+I am victim to this, and I know you are too--your closet is filled with plaid flannels. How can it not be? They are so easy to throw on top of, quite literally, anything. Too bad it's summer... Thankfully Urban has a linen version which looks amazing! If you pair this with bermuda shorts, or even the Madewell Boyfriend High-Rise shorts, and you have yourself the summer version of your favorite winter look. 
