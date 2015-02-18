@@ -3,7 +3,7 @@ layout: post
 title:  "ASOS V Front Cold Shoulder Top"
 date:   2015-2-17 21:25:30
 categories: jekyll update
-image: Asos_V neck_could shoulder_tank.jpeg
+image: Asos_V neck_cold shoulder_tank.jpeg
 price: '51.36'
 site: ASOS.com
 location: http://us.asos.com/ASOS/ASOS-V-Front-Cold-Shoulder-Top/Prod/pgeproduct.aspx?iid=4865745&cid=4718&sh=0&pge=0&pgesize=36&sort=-1&clr=Cream&totalstyles=586&gridsize=3&TTP=1

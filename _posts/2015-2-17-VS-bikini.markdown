@@ -3,7 +3,7 @@ layout: post
 title:  "Victoria's Secret Lattice Push-Up Bandeau"
 date:   2015-2-17 21:25:30
 categories: jekyll update
-image: VS_bikini.jpeg
+image: VS_bikini.jpg
 price: '48.50'
 site: Victoriassecret.com
 location: https://www.victoriassecret.com/swimwear/push-up/lattice-push-up-bandeau-forever-sexy?ProductID=206567&CatalogueType=OLS
