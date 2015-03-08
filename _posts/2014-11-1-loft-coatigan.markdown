@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Loft Coatigan"
-date:   2014-11-1 21:25:30
+title:  "Hot on the Trail Red Drawstring Bucket Bag"
+date:   2015-03-07 21:25:30
 categories: jekyll update
-image: loft_coatigan.jpeg
-price: '98.00'
-site: Loft.com
-location: http://www.loft.com/coatigan/354963?colorExplode=false&skuId=17667289&catid=catl000012&productPageType=fullPriceProducts&defaultColor=8875
+image: Lulu_red_bucket_bag.jpg
+price: '47.00'
+site: Lulus.com
+location: http://www.lulus.com/products/hot-on-the-trail-red-drawstring-bucket-bag/201538.html
 ---
-Cotigans, perfect for layering and for that inbetween weather.
+Drawstring Bucket Bags are a really good buy for the spring season. If you're like me, you tend to buy brown, nude or black bags, but try stepping out of your comfort zone. 
