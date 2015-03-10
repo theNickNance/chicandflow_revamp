@@ -2,21 +2,28 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid transparent;
-    border-bottom: 1px solid transparent;
-    min-height: 56px;
+    border-top: 40px solid transparent;
+    border-bottom: 5px solid $text-color;
+    min-height: 86px;
+    background: url(/images/symphony/symphony.png);
 
     // Positioning context for the mobile navigation icon
     position: relative;
 
     .wrapper {
-        border-bottom: 5px solid $text-color;
+        //border-bottom: 5px solid $text-color;
     }
 }
 
+/* body {
+    background: url(/images/symphony/vintage_speckles_@2X.png);
+    background-size: 400px 300px;
+} */
+
 .site-title {
-    font-size: 26px;
-    line-height: 56px;
+    font-size: 106px;
+    line-height: 86px;
+    margin-bottom: -20px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
@@ -50,7 +57,7 @@
 
     @include media-query($on-palm) {
         position: absolute;
-        top: 9px;
+        bottom: 9px;
         right: 15px;
         background-color: $background-color;
         border: 1px solid rgba(0,0,0,0.2);
@@ -104,6 +111,7 @@
     text-align: center;
     font-size: 12px;
     color: $grey-color;
+    background: #fff;
 }
 
 .footer-heading {
@@ -184,24 +192,74 @@
     list-style: none;
     text-align: center;
 
+    img {
+        max-height: 500px;
+    }
+
     > li {
-        margin: 0 15px $spacing-unit 15px;
-        display: inline-block;
+        margin: 0 0 $spacing-unit 0;
+        overflow: hidden;
 
         .info {
-            font-size: 12px;
-            margin-top: 5px;
-            text-align: center;
-            color: $grey-color;
+            font-size: 28px;
+            text-align: left;
+            color: $grey-color-dark;
+            padding-top: 50px;
+        }
+
+        .post-link {
+            overflow: hidden;
+            border: 1px solid $grey-color-light;
+            display: block;
+            background-color: #fff;
+
+            &:hover, &:focus {
+                border-color: $grey-color;
+                text-decoration: none;
+            }
+
+            img {
+                display: block;
+                float: left;
+                margin-right: 20px;
+            }
         }
     }
 
-    img {
-        max-height: 275px;
-        border: 1px solid $grey-color-light;
+    > li:nth-of-type(even) {
+        .info {
+            text-align: right;
+        }
 
-        &:hover {
-            border-color: $grey-color;
+        .post-link {
+
+
+            img {
+                float: right;
+                margin-right: 0;
+                margin-left: 20px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .post-list {
+        > li {
+            .post-link {
+
+                img {
+                    margin: 0 !important;
+                    float: none !important;
+                    width: 100%;
+                    max-height: none;
+                }
+
+                .info {
+                    padding: 10px;
+                    font-size: 24px;
+                }
+            }
         }
     }
 }
@@ -209,11 +267,6 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
-}
-
-.post-link {
-    display: block;
-    font-size: 24px;
 }
 
 
