@@ -6,6 +6,7 @@ categories: jekyll update
 image: crown_vintage_dallas_flat.jpeg
 price: '34.95'
 site: DSW.com
+brand: Crown Vintage
 location: http://www.dsw.com/shoe/crown+vintage+dallas+flat+sandal?prodId=319498&category=dsw12cat440004&activeCats=cat10006,cat20034,dsw12cat440004
 ---
 

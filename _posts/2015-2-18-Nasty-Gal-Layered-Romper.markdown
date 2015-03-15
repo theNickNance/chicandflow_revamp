@@ -6,6 +6,7 @@ categories: jekyll update
 image: Nasty Gal_Layered Romper.jpg
 price: '179.00'
 site: NastyGal.com
+brand: Nasty Gal
 location: http://www.nastygal.com/whats-new_clothes/keepsake-night-after-night-layered-romper
 ---
 Rompers are my all time favorite piece of clothing, it makes you seem really stylish when you are actually putting forth minimal effort. I know what's going through you're head, "I'm not a stick, I can't possibly look good in a romper or jumpsuit" well the thing is, you can! You might have to hunt, but you have to find the one that works with YOUR body.

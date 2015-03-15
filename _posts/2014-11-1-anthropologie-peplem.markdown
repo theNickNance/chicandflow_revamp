@@ -6,6 +6,6 @@ categories: jekyll update
 image: anthropologie_peplam.jpeg
 price: '68.00'
 site: Anthropologie.com
+brand: Anthropologie
 location: http://www.anthropologie.com/anthro/product/clothes-blouses/4112081244997.jsp?cm_sp=Grid-_-4112081244997-_-Regular_32
 ---
-

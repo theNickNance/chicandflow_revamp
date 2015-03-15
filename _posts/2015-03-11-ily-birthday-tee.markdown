@@ -6,6 +6,7 @@ categories: jekyll update
 image: ily_birthday_tee.jpg
 price: '38.00'
 site: ilycouture.com
+brand: Ily Couture
 location: http://ilycouture.com/products/birthday-girl-tee?variant=1142160419
 ---
 This item comes from one of my favorite blogs, HELLO FASHION. I know how easy it is to throw on a pair of workout pants, a t-shirt and some tennis shoes…I mean it’s SO comfortable and costs almost no effort.
