@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Anthropologie Peplem"
+title:  "Telltale' Embroidered Tunic"
 date:   2014-11-1 21:26:30
 categories: jekyll update
-image: anthropologie_peplam.jpeg
-price: '68.00'
-site: Anthropologie.com
-brand: Anthropologie
-location: http://www.anthropologie.com/anthro/product/clothes-blouses/4112081244997.jsp?cm_sp=Grid-_-4112081244997-_-Regular_32
+image: metallic_free_people_top.jpg
+price: '128.00'
+site: Nordstrom.com
+brand: Free People
+location:http://shop.nordstrom.com/s/free-people-telltale-embroidered-tunic/3995710?origin=category-personalizedsort&contextualcategoryid=0&fashionColor=&resultback=4179
 ---
