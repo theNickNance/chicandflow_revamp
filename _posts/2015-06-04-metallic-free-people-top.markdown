@@ -7,5 +7,4 @@ image: metallic_free_people_top.jpg
 price: '128.00'
 site: Nordstrom.com
 brand: Free People
-location:http://shop.nordstrom.com/s/free-people-telltale-embroidered-tunic/3995710?origin=category-personalizedsort&contextualcategoryid=0&fashionColor=&resultback=4179
----
+location: http://shop.nordstrom.com/s/free-people-telltale-embroidered-tunic/3995710?origin=category-personalizedsort&contextualcategoryid=0&fashionColor=&resultback=4179
