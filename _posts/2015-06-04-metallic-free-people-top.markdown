@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Telltale' Embroidered Tunic"
-date:   2014-11-1 21:26:30
+date:   2015-6-4 21:26:30
 categories: jekyll update
 image: metallic_free_people_top.jpg
 price: '128.00'
